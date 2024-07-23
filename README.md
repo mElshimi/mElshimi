@@ -62,7 +62,7 @@
      <img src="https://github.com/mElshimi/melshimi/blob/main/img/icons8-redux-48.png?raw=true" alt="redux" />
     </a>
     <a href="https://mui.com/material-ui/getting-started/" target="_blank" rel="noreferrer"> 
-     <img src="https://github.com/mElshimi/melshimi/blob/main/img/icons8-matrial-48.png?raw=true" alt="matrial-ui" width="40" height="40"/>
+     <img src="https://github.com/mElshimi/melshimi/blob/main/img/icons8-matrial-48.png?raw=true" alt="matrial-ui" width="48" height="48"/>
     </a>
 </div>
 <br>
