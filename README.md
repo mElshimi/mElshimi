@@ -44,7 +44,7 @@
      <img src="https://github.com/mElshimi/melshimi/blob/main/img/icons8-tailwind-48.png?raw=true" alt="tailwind" />
     </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-     <img src="https://github.com/mElshimi/melshimi/blob/main/img/icons8-javascript-48.png?raw=true" alt="javascript" />
+     <img src="https://github.com/mElshimi/melshimi/blob/main/img/icons8-javascript-48.png?raw=true" alt="javascript" width="48" height="48" />
     </a> 
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
      <img src="https://github.com/mElshimi/melshimi/blob/main/img/icons8-typescript-48.png?raw=true" alt="typescript"/>
