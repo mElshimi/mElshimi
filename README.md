@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melshimi&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmed-Abou-Emran" /> </p>
 
-<img src="https://raw.githubusercontent.com/mElshimi/Daily-Assistant/master/assets/images/bg2.jpg" alt="">
+<img src="https://github.com/mElshimi/melshimi/blob/main/img/header.gif?raw=true" alt="">
 <img alt="Coder GIF" src="https://lh3.googleusercontent.com/pw/AP1GczPDQ1nWYFwQ_SrRrBeCK1MTfFvsQI0L_Xi9_saivn4Up-kK9chiXIktIXpSCOLiT6jeFM67y0m7TgUSE35eNKSNmUsuscTX5WBr7cg5hja0VDuYsSgbhqeirfU-SQnm-ktu1Xd2HBPBmjq-q-4SmAfz=w1620-h911-s-no-gm?authuser=0" />
 <h1 align="center">Hi 👋, I'm Mohamed Elshimi</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
