@@ -24,7 +24,7 @@
    <a href="https://instagram.com/melshimi90" target="blank">
      <img align="center" src="https://github.com/mElshimi/melshimi/blob/main/img/icons8-instagram-48.png?raw=true" alt="instagram-acc" />
    </a>
-   <a href="https://wa.me/+201123699255"> target="blank">
+   <a href="https://wa.me/+201123699255" target="blank">
      <img align="center" src="https://github.com/mElshimi/melshimi/blob/main/img/icons8-whatsapp-48.png?raw=true" alt="whatsApp-chat" />
    </a>
 </div>
