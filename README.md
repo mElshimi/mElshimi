@@ -11,6 +11,7 @@
    <h3>📫 How to reach me <a href="mailto:mohamed.elshemy90@gmail.com">Send email</h3>
    <h3>📄 Know about my experiences (stay tuned)</h3>
    <h3>⚡ Fun fact I am Funny</h3>
+      <a href="Mohamed Elshimi CV.pdf" download>dads</a>
 </div>
 <br>
 <div align="center">
