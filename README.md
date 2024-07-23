@@ -7,7 +7,7 @@
 <br>
 <div align="center">
    <h3>👨‍💻 All of my projects are available at (stay tuned)</h3>
-   <h3>💬 Ask me about React, or anything </h3>
+   <h3>💬 Ask me about JavaScript, TypeScript, React, or anything </h3>
    <h3>📫 How to reach me <a href="mailto:mohamed.elshemy90@gmail.com">Send email</h3>
    <h3>📄 Know about my experiences (stay tuned)</h3>
    <h3>⚡ Fun fact I am Funny</h3>
