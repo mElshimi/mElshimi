@@ -62,10 +62,9 @@
     </a>
 </div>
 
-<h2 align="center">⚡ Stats ⚡</h2>
 <div align=center>
-<img width=390 src="https://github-readme-stats.vercel.app/api?username=melshimi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="melshimi" />
-
-<img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=melshimi&&layout=compact&theme=tokyonight" alt="melshimi" /></p>
-<img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=melshimi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="melshimi" />
+   <h2 >⚡ Stats ⚡</h2>
+   <img width=390 src="https://github-readme-stats.vercel.app/api?username=melshimi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="melshimi" />
+   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=melshimi&&layout=compact&theme=tokyonight" alt="melshimi" /></p>
+   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=melshimi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="melshimi" />
 </div>
