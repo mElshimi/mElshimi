@@ -4,16 +4,15 @@
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <div align="center">
-👨‍💻 All of my projects are available at [wait](wait)
+- 👨‍💻 All of my projects are available at [wait](wait)
 
+- 💬 Ask me about **react**
 
-💬 Ask me about **React, anything**
+- 📫 How to reach me **mohamed.elshemy90@gmail.com**
 
-📫 How to reach me **mohamed.elshemy90@gmail.com**
+- 📄 Know about my experiences [wait](wait)
 
-📄 Know about my experiences [wait](wait)
-
-⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I am Funny**
  </div>
 <h3 align="center">Connect with me:</h3>
 <p align="left">
