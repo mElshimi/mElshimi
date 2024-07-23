@@ -11,9 +11,13 @@
 
 - 📄 Know about my experiences [wait](wait)
 
+- ⚡ Fun fact **I am Funny**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/melshimi90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melshimi90" height="30" width="40" /></a>
+<a href="https://fb.com/melshimi90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="melshimi90" height="30" width="40" /></a>
+<a href="https://instagram.com/melshimi90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="melshimi90" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=melshimi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="melshimi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melshimi&&layout=compact&theme=tokyonight" alt="melshimi" /></p>
+v
