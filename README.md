@@ -40,17 +40,17 @@
     <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
      <img src="https://github.com/mElshimi/melshimi/blob/main/img/icons8-sass-48.png?raw=true" alt="sass" />
     </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    <a href="https://tailwindcss.com//" target="_blank" rel="noreferrer"> 
+     <img src="https://github.com/mElshimi/melshimi/blob/main/img/icons8-tailwind-48.png?raw=true" alt="tailwind" />
     </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+     <img src="https://github.com/mElshimi/melshimi/blob/main/img/icons8-javascript-48.png?raw=true" alt="javascript" />
     </a> 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+     <img src="https://github.com/mElshimi/melshimi/blob/main/img/icons8-typescript-48.png?raw=true" alt="typescript"/>
     </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+    <a href="https://www.w3schools.com/cpp/default.asp" target="_blank" rel="noreferrer"> 
+     <img src="https://github.com/mElshimi/melshimi/blob/main/img/icons8-c++-48.png?raw=true" alt="c++" />
     </a>
     <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
