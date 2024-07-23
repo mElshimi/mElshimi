@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [wait](wait)
 
-- 💬 Ask me about **React, anything [here](https://github.com/salesp07/salesp07/issues)**
+- 💬 Ask me about **React, anything**
 
 - 📫 How to reach me **mohamed.elshemy90@gmail.com**
 
