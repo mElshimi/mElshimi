@@ -3,6 +3,7 @@
 <img alt="Coder GIF" src="https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105" />
 <h1 align="center">Hi 👋, I'm Mohamed Elshimi</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
+<br>
 <div align="center">
    <h3>👨‍💻 All of my projects are available at [wait](wait)</h3>
    <h3>💬 Ask me about React, or anything </h3>
