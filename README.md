@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melshimi&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmed-Abou-Emran" /> </p>
 
-<img alt="Coder GIF" src="https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105" />
+<img alt="Coder GIF" src="https://drive.google.com/file/d/1fNZ2PtZ4eLH23WrEXWUY7cW72vjJFYZb/view?usp=sharing" />
 <h1 align="center">Hi 👋, I'm Mohamed Elshimi</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 <br>
