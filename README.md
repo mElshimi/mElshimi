@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
 <h1 align="center">Hi 👋, I'm Mohamed Elshimi</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
@@ -5,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [wait](wait)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **React, anything [here](https://github.com/salesp07/salesp07/issues)**
 
 - 📫 How to reach me **mohamed.elshemy90@gmail.com**
 
