@@ -4,7 +4,7 @@
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <div align="center">
  <h3>👨‍💻 All of my projects are available at [wait](wait)</h3>
- <h3>💬 Ask me about **React**</h3>
+ <h3>💬 Ask me about React, or anything </h3>
 <h3>📫 How to reach me <a href="mailto:mohamed.elshemy90@gmail.com">Send email</h3>
  <h3>📄 Know about my experiences [wait](wait)</h3>
  <h3>⚡ Fun fact **I am Funny**</h3>
