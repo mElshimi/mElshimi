@@ -52,17 +52,17 @@
     <a href="https://www.w3schools.com/cpp/default.asp" target="_blank" rel="noreferrer"> 
      <img src="https://github.com/mElshimi/melshimi/blob/main/img/icons8-c++-48.png?raw=true" alt="c++" />
     </a>
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+    <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+     <img src="https://github.com/mElshimi/melshimi/blob/main/img/icons8-react-48.png?raw=true" alt="react" />
     </a>
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+    <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> 
+     <img src="https://github.com/mElshimi/melshimi/blob/main/img/icons8-npm-48.png?raw=true" alt="npm" />
     </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+    <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> 
+     <img src="https://github.com/mElshimi/melshimi/blob/main/img/icons8-redux-48.png?raw=true" alt="redux" />
     </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+    <a href="https://mui.com/material-ui/getting-started/" target="_blank" rel="noreferrer"> 
+     <img src="https://github.com/mElshimi/melshimi/blob/main/img/icons8-matrial-48.png?raw=true" alt="matrial-ui" width="40" height="40"/>
     </a>
 </div>
 <br>
