@@ -9,7 +9,7 @@
    <h3>📄 Know about my experiences [wait](wait)</h3>
    <h3>⚡ Fun fact **I am Funny**</h3>
 </div>
-      <br>
+<br>
 <h2 align="center">💬  Connect with me 💬</h2>
 <div align="center">
    <a href="https://linkedin.com/in/melshimi90" target="blank">
@@ -22,7 +22,7 @@
      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="melshimi90" height="30" width="40" />
    </a>
 </div>
-    
+<br>
 <div align="center">
     <h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
@@ -62,7 +62,7 @@
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
     </a>
 </div>
-
+<br>
 <div align=center>
    <h2 >⚡ Stats ⚡</h2>
    <img width=390 src="https://github-readme-stats.vercel.app/api?username=melshimi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="melshimi" />
