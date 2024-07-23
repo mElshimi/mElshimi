@@ -36,6 +36,7 @@
     <h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
     <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"> 
       <img src="https://github.com/mElshimi/melshimi/blob/main/img/icons8-html-48.png?raw=true" alt="html" />
+       <p>HTML</p>
     </a> 
     <a href="https://www.w3schools.com/css/default.asp" target="_blank" rel="noreferrer"> 
      <img src="https://github.com/mElshimi/melshimi/blob/main/img/icons8-css-48.png?raw=true" alt="css" /> 
